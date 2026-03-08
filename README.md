@@ -1,4 +1,13 @@
-# XOR_MLP – PyTorch Lightning Implementation
+## MNIST_MLP – PyTorch Lightning Implementation
+🔗 **Open in Colab:** [Run Notebook](https://colab.research.google.com/drive/16yeEfH8ws972eg2hBFzn2lQnKuhkTr-F?usp=sharing)
+
+### Model Architecture
+- Input Layer  : 784 neurons (28×28 flattened image)
+- Hidden Layer 1 : 128 neurons + ReLU
+- Hidden Layer 2 : 64 neurons + ReLU
+- Output Layer : 10 neurons (digit classes 0–9)
+
+## XOR_MLP – PyTorch Lightning Implementation
 
 A simple Multi-Layer Perceptron (MLP) built using PyTorch Lightning to solve the classic XOR problem.
 
@@ -6,7 +15,7 @@ A simple Multi-Layer Perceptron (MLP) built using PyTorch Lightning to solve the
 
 ---
 
-## Model Architecture
+### Model Architecture
 
 - Input Layer: 2 neurons  
 - Hidden Layer 1: 8 neurons + ReLU  
