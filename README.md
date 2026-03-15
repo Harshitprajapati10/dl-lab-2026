@@ -1,3 +1,6 @@
+## NN on random data from scratch
+ 🔗 **Open in Colab:** [Run Notebook](https://colab.research.google.com/drive/1ROWcWDJUkvOyGWyimUiQub69GNU0xTai?usp=sharing)
+
 ## MNIST_MLP – PyTorch Lightning Implementation
 🔗 **Open in Colab:** [Run Notebook](https://colab.research.google.com/drive/16yeEfH8ws972eg2hBFzn2lQnKuhkTr-F?usp=sharing)
 
