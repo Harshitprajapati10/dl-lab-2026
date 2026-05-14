@@ -1,17 +1,17 @@
 `
-# curl "https://raw.githubusercontent.com/Harshitprajapati10/dl-lab-2026/refs/heads/main/zcodex.json" -o "$env:APPDATA\Code\User\snippets\python.json"
+ curl "https://raw.githubusercontent.com/Harshitprajapati10/dl-lab-2026/refs/heads/main/zcodex.json" -o "$env:APPDATA\Code\User\snippets\python.json"
 
-# python -m venv venv
+python -m venv venv
 
-# venv\Scripts\activate
+venv\Scripts\activate
 
-# pip install jupyter ipykernel
+ pip install jupyter ipykernel
 
-# pip install torch torchvision pytorch-lightning datasets numpy pandas matplotlib
+ pip install torch torchvision pytorch-lightning datasets numpy pandas matplotlib
 
-# pip list
+pip list
 
-# python -m ipykernel install --user --name=venv --display-name "Python (venv)"
+python -m ipykernel install --user --name=venv --display-name "Python (venv)"
 `
 
 
